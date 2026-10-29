@@ -1,8 +1,3 @@
-Here is the `README.md` file for your **Branch 1 (Task 1: Claims Dashboard)**, perfectly styled after the Elezaby Pharmacy Case Study, incorporating all the insights and images from your Nextcare Task 1 presentation and PDF.
-
-***
-
-```markdown
 # Nextcare Claims & Policy Performance Case Study Dashboard
 
 ## Project Overview
@@ -22,7 +17,7 @@ The analysis aimed to:
 
 ## Page 1: Policy Performance
 
-<img width="1000" height="580" alt="Page 1 - Policy Performance" src="https://github.com/user-attachments/assets/placeholder-claims-page1" />
+<img width="1000" height="500" alt="Page 1 - Policy Performance" src="https://github.com/user-attachments/assets/5f09868c-cbfa-4108-bb74-5b96c2e05686" />
 
 ### Key Visuals & Metrics
 
@@ -38,7 +33,7 @@ The analysis aimed to:
 
 ## Page 2: Abnormal Findings
 
-<img width="1000" height="580" alt="Page 2 - Abnormal Findings" src="https://github.com/user-attachments/assets/placeholder-claims-page2" />
+<img width="1000" height="500" alt="Page 2 - Abnormal Findings" src="https://github.com/user-attachments/assets/3b6467c9-bf66-4ddc-a555-ed4bd5144750" />
 
 ### Key Visuals & Metrics
 
@@ -54,7 +49,7 @@ The analysis aimed to:
 
 ## Page 3: High Utilisation Drivers
 
-<img width="1000" height="580" alt="Page 3 - High Utilisation Drivers" src="https://github.com/user-attachments/assets/placeholder-claims-page3" />
+<img width="1000" height="500" alt="Page 3 - High Utilisation Drivers" src="https://github.com/user-attachments/assets/36e8f327-8d3c-44c8-94a8-a510b7b9b390" />
 
 ### Key Visuals & Metrics
 
@@ -70,7 +65,7 @@ The analysis aimed to:
 
 ## Page 4: Trend Analysis
 
-<img width="1000" height="580" alt="Page 4 - Trend Analysis" src="https://github.com/user-attachments/assets/placeholder-claims-page4" />
+<img width="1000" height="500" alt="Page 4 - Trend Analysis" src="https://github.com/user-attachments/assets/dd9f07c1-1a19-4876-9aea-8ae5020e8b42" />
 
 ### Key Visuals & Metrics
 
@@ -85,7 +80,7 @@ The analysis aimed to:
 
 ## Page 5: Claim Details Drill-Through
 
-<img width="1000" height="580" alt="Page 5 - Claim Details" src="https://github.com/user-attachments/assets/placeholder-claims-page5" />
+<img width="1000" height="580" alt="Page 5 - Claim Details" src="https://github.com/user-attachments/assets/e4c77c9e-154d-4ce0-9924-5c4539c4bacc" />
 
 ### Key Visuals & Metrics
 
@@ -171,6 +166,3 @@ Data Intelligence Reporting Specialist @ Nextcare Allianz Partners
 
 ## Any Questions
 **Mahmoud_Abdallah20@outlook.com**
-
-<img width="200" height="200" alt="Nextcare Allianz" src="https://github.com/user-attachments/assets/347e2fb5-3c83-43c1-8c5c-bb63a200bf67" />
-```
