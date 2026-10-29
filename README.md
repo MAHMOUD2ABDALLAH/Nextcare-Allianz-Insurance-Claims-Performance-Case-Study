@@ -80,7 +80,7 @@ The analysis aimed to:
 
 ## Page 5: Claim Details Drill-Through
 
-<img width="1000" height="580" alt="Page 5 - Claim Details" src="https://github.com/user-attachments/assets/e4c77c9e-154d-4ce0-9924-5c4539c4bacc" />
+<img width="1000" height="500" alt="Page 5 - Claim Details" src="https://github.com/user-attachments/assets/e4c77c9e-154d-4ce0-9924-5c4539c4bacc" />
 
 ### Key Visuals & Metrics
 
