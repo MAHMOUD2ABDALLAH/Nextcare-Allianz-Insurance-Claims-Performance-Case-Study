@@ -12,5 +12,5 @@ The repository is structured into three distinct branches, featuring interactive
 2. Task 2: Helpline Dashboard
 3. Task 3: General SQL Queries
 
-<img width="400" height="240" alt="Nextcare_and_Allianz_Partners_logos_a5a2f7f1_2K" src="https://github.com/user-attachments/assets/136b5c45-de43-411f-bfce-ed3c10c361a2" />
+<img width="400" height="230" alt="mmm" src="https://github.com/user-attachments/assets/1d6fb6b0-4acd-4566-8376-d0bf7d1cfc75" />
 
