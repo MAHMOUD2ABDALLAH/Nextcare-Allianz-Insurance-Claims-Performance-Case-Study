@@ -12,4 +12,4 @@ The repository is structured into three distinct branches, featuring interactive
 2. Task 2: [Helpline Dashboard](https://github.com/MAHMOUD2ABDALLAH/Nextcare-Allianz-Insurance-Claims-Performance-Case-Study/tree/Task-2)
 3. Task 3: [General SQL Queries](https://github.com/MAHMOUD2ABDALLAH/Nextcare-Allianz-Insurance-Claims-Performance-Case-Study/tree/Task-3)
 
-<img width="300" height="100" alt="nextcare" src="./nextcare.svg" />
+<img width="200" height="200" alt="nextcare" src="./nextcare.svg" />
